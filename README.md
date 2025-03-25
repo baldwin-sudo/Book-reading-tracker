@@ -1,7 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## User Interface
+### Home
 ![image](https://github.com/user-attachments/assets/7ba07ae4-9ceb-447c-9549-aa44731410b9)
+### Book Page 
+![image](https://github.com/user-attachments/assets/b18ea968-5b46-493c-b714-6265d9a0f3c2)
+### Taking notes page 
+![image](https://github.com/user-attachments/assets/e64b81a1-b63c-484f-9c68-36873e7889be)
 
 ## Getting Started
 
