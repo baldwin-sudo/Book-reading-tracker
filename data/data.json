@@ -1,0 +1,171 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habitaa",
+      "genre": "Self-help",
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 125,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100,
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programma",
+      "genre": "Programming",
+      "book_url": "https://example.com/pragmatic-programmer",
+      "cover":null,
+      "status": "to-read",
+      "total_pages": 352,
+      "current_page": 0,
+     
+      "start_date": null,
+      "finish_date": null,
+      "notes": []
+     
+    },{
+      "id": 3,
+      "title": "Rust language",
+      "genre": "Self-help",
+      
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 120,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100,
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    },{
+      "id": 4,
+      "title": "crafting interpreters",
+      "genre": "Self-help",
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 120,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100, 
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    },{
+      "id": 5,
+      "title": "youtube",
+      "genre": "Self-help",
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 120,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100, 
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    },{
+      "id": 6,
+      "title": "Atomic Habits",
+      "genre": "Self-help",
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 120,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100, 
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    },{
+      "id": 7,
+      "title": "Atomic Habits",
+      "genre": "Self-help",
+      "cover":null,
+      "book_url": "https://example.com/atomic-habits",
+      "status": "reading",
+      "total_pages": 320,
+      "current_page": 120,
+     
+      "start_date": "2024-03-01",
+      "finish_date": null,
+      "notes": [
+        {
+          "id": 1,
+          "page": 50,
+          "content": "Small habits lead to big results over time."
+        },
+        {
+          "id": 2,
+          "page": 100, 
+          "content": "Habit stacking is a powerful technique."
+        }
+      ]
+      
+    }
+  ]
+}

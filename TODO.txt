@@ -1,0 +1,18 @@
+- api routes :
+
+    - books :
+        - get all books
+        - get book by id
+        - update books details
+
+    - note :
+        - add notes
+        - update note 
+        - delete note
+
+
+-DB :
+    - mongo db or postgres ?
+
+
+- pdf storing  ?
